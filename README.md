@@ -18,6 +18,8 @@ python3 manage.py runserver 0.0.0.0:8000
 密码：1234
 ```
 
+![Image text](https://github.com/py3study/verify_demo/blob/master/esult.gif)
+
 
 
 # 参考链接
